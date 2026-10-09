@@ -1,0 +1,18 @@
+{
+  "name": "skill-suggester-plugin",
+  "version": "1.0.0",
+  "description": "Always-on proactive skill advisor and intent matcher for Antigravity and AI coding agents.",
+  "author": {
+    "name": "Antigravity Community"
+  },
+  "repository": "https://github.com/your-username/skill-suggester",
+  "license": "MIT",
+  "keywords": [
+    "antigravity",
+    "skills",
+    "router",
+    "advisor",
+    "always-on",
+    "ai-agent"
+  ]
+}
